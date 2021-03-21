@@ -8,7 +8,7 @@ In original project written that works with Adafruit_GFX Version 1.7.5, but I us
 
 I create mount for Noctua NH-U9S cooler. Get 3D model [this](https://www.thingiverse.com/thing:4801562). You can create cable 9-pin USB2.0 to MicroUSB for internal connection on motherboard (use 1,3,5,7 or 2,4,6,8 pins on scheme).
 
-To autostart HardwareSerialMonitor can use [Task Sheduler](https://github.com/CreatiV92/TFT-Hardware-Monitor/tree/main/autostart).
+To autostart HardwareSerialMonitor can use [Task Sheduler](https://github.com/CreatiV92/TFT-Hardware-Monitor/tree/main/autostart) (enable for all users options "Run as admin" in HardwareSerialMonitor.exe).
 
 
 
