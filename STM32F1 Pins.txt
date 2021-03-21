@@ -1,0 +1,21 @@
+Display with Red PCB pinouots
+
+  ILI9341 320x240 PINOUT
+  --------------
+  (TFT)      STM32
+
+  CS     =   PB11
+  RESET  =   PB10
+  DC     =   PB1
+  SCK    =   PA5
+  MOSI   =   PA7
+  LED    =   PB0
+  GND    =   G
+  VCC    =   3V3
+
+  Rotary Encoder
+  ---------------
+  EncoderA = PB8
+  EncoderB = PB9
+  Button   = PB5
+  ---------------
